@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "quickstart/routers"
+	_ "beego_quickstart/routers"
 	"github.com/astaxie/beego"
 )
 
